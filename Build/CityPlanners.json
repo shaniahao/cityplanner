@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "City Planners",
+"productName": "CityPlanner",
 "productVersion": "0.1",
 "dataUrl": "CityPlanners.data.unityweb",
 "wasmCodeUrl": "CityPlanners.wasm.code.unityweb",
